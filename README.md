@@ -1,4 +1,4 @@
 # test_007
-meine erste test
-aws cloud 
-linux
+n = Naqeeb
+N = Nasib
+print (n + N)
